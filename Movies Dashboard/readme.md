@@ -38,6 +38,7 @@ The Power BI dashboard includes:
   - 💰 Average movie budget
   - 🏆 Total box office revenue
   - 👑 Highest-earning movie
+ and many-many others...   
 
 ---
 
@@ -73,6 +74,8 @@ The Power BI dashboard includes:
 - All dollar values are assumed to be in USD
 
 ---
-
+✨ Uploaded project folder contents  
+📝 I'm a beginner, excuse any mistakes!
+---
 > _Feel free to fork, modify, or contribute!_
 
