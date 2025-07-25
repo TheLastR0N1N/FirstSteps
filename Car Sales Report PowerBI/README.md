@@ -7,6 +7,7 @@
 - Visuals & charts 🖼️
 
 📝 Notes:
+I couldn't upload the csv file as it was too big, github didn't let it in
 I'm a beginner, so please excuse any formatting or structure issues 🙏  
 I'll keep learning and improving — feedback is always welcome! 💬
 
