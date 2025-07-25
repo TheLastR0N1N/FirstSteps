@@ -77,5 +77,4 @@ The Power BI dashboard includes:
 ✨ Uploaded project folder contents  
 📝 I'm a beginner, excuse any mistakes!
 ---
-> _Feel free to fork, modify, or contribute!_
 
