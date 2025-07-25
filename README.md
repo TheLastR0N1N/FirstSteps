@@ -22,7 +22,7 @@ Includes:
 
 ### 🛠️ Currently Working On
 **🪑 Furniture Company Report (Power BI)**  
-I’ve started building another Power BI report focused on a fictional furniture company's sales data.  
+I’ve started building another Power BI report focused on a furniture company's sales data.  
 It will include:
 - Branch-wise performance
 - Profit margin analysis
